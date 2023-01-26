@@ -1,6 +1,6 @@
 # EBOT - {/} Slash Commands
 
-![image]()
+![image](https://imgur.com/a/WlpoEiB)
 
 # Connecter une base de donnée:
 

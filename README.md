@@ -1,6 +1,9 @@
 # EBOT - {/} Slash Commands
 
+# Information et autres:
 
+__Lien d'invitation:__: https://discord.com/oauth2/authorize?client_id=965385515618676746&permissions=1644971949559&scope=bot
+__Serveur Support:__ https://discord.gg/E8j9ZzzHjM
 
 # Connecter ma base de donnée:
 

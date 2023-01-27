@@ -1,11 +1,12 @@
 # EBOT - {/} Slash Commands
 
-# Information et autres:
-
 __Lien d'invitation:__: https://discord.com/oauth2/authorize?client_id=965385515618676746&permissions=1644971949559&scope=bot
 __Serveur Support:__ https://discord.gg/E8j9ZzzHjM
 
-# Connecter ma base de donnée:
+
+
+__Où mettre mon token ?__
+ - Allez dans le chemin suivant: "commands/database/token.py"
 
 __Comment connecter ma db à EBOT ?__
  - Pour connecter votre db MySQL, rendez-vous dans: "commands/database/mysql.py",

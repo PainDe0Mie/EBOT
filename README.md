@@ -31,4 +31,3 @@ __Lien d'invitation:__: https://discord.com/oauth2/authorize?client_id=965385515
 __Serveur Support:__ https://discord.gg/q42m4fRhu2
 
 *Date de MAJ: 01/03/2023*
-*Numéro de version: 0.01*

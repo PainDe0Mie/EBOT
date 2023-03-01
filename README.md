@@ -1,7 +1,7 @@
 # EBOT - {/} Slash Commands
 
 EBOT est un bot multifonction. L'objectif de celui-ci est de réduire le nombre de bot sur votre serveur.
-
+- Ceci n'est pas le bot en entier.
 
 
 # Connecter une base de donnée:

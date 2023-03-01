@@ -3,8 +3,6 @@
 EBOT est un bot multifonction. L'objectif de celui-ci est de réduire le nombre de bot sur votre serveur.
 - Ceci n'est pas le bot en entier.
 
-*Date de MAJ: 01/03/2023*
-
 __Dernièrement ajouter:__
  - EBOT est enfin disponible en open source !,
  - Toute les commandes sont disponibles (hors bug & suggestion uniquement dispo. sur EBOT d'origine),
@@ -29,4 +27,8 @@ __Comment connecter ma base de donnée à EBOT ?__
 # Autres informations:
 
 __Lien d'invitation:__: https://discord.com/oauth2/authorize?client_id=965385515618676746&permissions=1644971949559&scope=bot
-__Serveur Support:__ https://discord.gg/E8j9ZzzHjM
+
+__Serveur Support:__ https://discord.gg/q42m4fRhu2
+
+*Date de MAJ: 01/03/2023*
+*Numéro de version: 0.01*

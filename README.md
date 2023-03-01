@@ -17,6 +17,22 @@ __Prochaine ajout potentiel:__
  - Ajout d'un système de notification pour les vidéos youtubes et twitch.
  - *(/suggestion pour implementer une commande)*
 
+# Liste des commandes:
+
+- help / *Affiche les commandes du bot*
+- add_emoji / *Ajouter un emoji sur votre serveur à l'aide d'une image ou d'un emoji existant* 
+- del_emoji / *Supprimer un emoji de votre serveur*
+- ban / *Bannir un utilisateur de votre serveur*
+- unban / *Débannir un utilisateur de votre serveur*
+- kick / *Expulser un membre de votre serveur*
+- clear / *Supprimer des messages*
+- nuke / *Recréer le salon*
+- protect / *Embed de protection (en cours de developpement..)*
+- whitelist / *Donner la permission à un membre de bypass les protections*
+- logs / *Logger les tentatives de modification (lorsque les protections sont activées)*
+- serveurs / *Afficher le nombre de serveur sur lequel il est présent*
+- info / *Affiche quelques informations diverses*
+
 # Connecter une base de donnée:
 
 __Comment connecter ma base de donnée à EBOT ?__

@@ -20,7 +20,9 @@ __Prochaine ajout potentiel:__
 
 - help / *Affiche les commandes du bot*
 - add_emoji / *Ajouter un emoji sur votre serveur à l'aide d'une image ou d'un emoji existant* 
+- add_sticker / *Ajouter un autocollant sur votre serveur à l'aide d'une image au format png/apng*
 - del_emoji / *Supprimer un emoji de votre serveur*
+- del_sticker / *Supprimer un autocollant de votre serveur*
 - ban / *Bannir un utilisateur de votre serveur*
 - unban / *Débannir un utilisateur de votre serveur*
 - kick / *Expulser un membre de votre serveur*
@@ -45,4 +47,4 @@ __Lien d'invitation:__: https://discord.com/oauth2/authorize?client_id=965385515
 
 __Serveur Support:__ https://discord.gg/q42m4fRhu2
 
-*Date de MAJ: 01/03/2023*
+*Date de MAJ: 04/03/2023*

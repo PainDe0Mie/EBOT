@@ -10,7 +10,7 @@ class ADDSTICKER(commands.Cog):
         self.bot = bot
 
     @app_commands.command(description="Ajouter un emoji sur votre serveur.")
-    @app_commands.describe(data="Image png, jpeg (url)")
+    @app_commands.describe(data="(url) Image au format: PNG, APNG")
     @app_commands.describe(emoji="Emoji par default")
     async def add_sticker(self, interaction: discord.Interaction, nom: str, emoji: str, data: str):
         await interaction.response.defer()
@@ -21,6 +21,9 @@ class ADDSTICKER(commands.Cog):
 
         if not emote.emoji_count(emoji) > 0:
             return await interaction.followup.send("Vous devez entrer un emoji par default !", ephemeral=True) 
+
+        if not ".png" in data or not ".apng" in data:
+            return await interaction.followup.send("Le format de votre image est incompatible ! (png ou apng)", ephemeral=True) 
 
         try:
             img_data = requests.get(data)

@@ -44,7 +44,7 @@ __Comment connecter ma base de donnée à EBOT ?__
 # Les modules:
 
 ```bash
-pip install discord
+pip install discord requests asyncio colorama 
 ```
 
 # Autres informations:

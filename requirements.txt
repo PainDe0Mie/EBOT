@@ -2,4 +2,4 @@ discord
 requests
 asyncio
 colorama
-sqlite
+mysql.connector

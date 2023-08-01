@@ -1,0 +1,5 @@
+discord
+requests
+asyncio
+colorama
+sqlite

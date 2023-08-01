@@ -41,6 +41,12 @@ __Comment connecter ma base de donnée à EBOT ?__
  - Entrer les données nécessaires dans le fichier,
  - Puis, n'oublier pas d'importer les templates dans votre base de donnée !
 
+# Les modules:
+
+```bash
+pip install discord
+```
+
 # Autres informations:
 
 Le bot n'est plus mis à jour *depuis le 02/08/23*

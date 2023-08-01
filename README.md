@@ -43,8 +43,10 @@ __Comment connecter ma base de donnée à EBOT ?__
 
 # Autres informations:
 
-__Lien d'invitation:__: https://discord.com/oauth2/authorize?client_id=965385515618676746&permissions=1644971949559&scope=bot
+Le bot n'est plus mis à jour *depuis le 02/08/23*
 
-__Serveur Support:__ https://discord.gg/q42m4fRhu2
+__Lien d'invitation:__: https://discord.com/oauth2/authorize?client_id=965385515618676746&permissions=1644971949559&scope=bot (off)
+
+__Serveur Support:__ off
 
 *Date de MAJ: 04/03/2023*
